@@ -15,7 +15,7 @@ pyhon3 -m venv .venv
 source .venv/bin/activate
 pip install -r requirements-dev.txt
 ````
-Para conferiri qualidade de código:
+Para conferir qualidade de código:
 
 ````console
 flake8
